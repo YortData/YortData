@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @YortData
-- 👀 I’m interested in data, doing good in the world, and finance.
-- 🌱 I’m currently learning all the things, but specifically learning Python.
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in data and doing good in the world.
+- 🌱 I’m currently learning all the things, but specifically learning Python and R.
+- 💞️ I’m looking to collaborate on CivicTech and GovTech.
 - 📫 How to reach me @YortData on Twitter.
 
 <!---
